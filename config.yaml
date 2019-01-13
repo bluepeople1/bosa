@@ -1,5 +1,5 @@
 mainnet: false
-testnet_truncate_snapshot: 10000
+testnet_truncate_snapshot: 3000
 http_endpoints:
   - http://localhost:8888
 snapshot:
