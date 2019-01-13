@@ -3,6 +3,10 @@ Airdrop tools for BOS Mainnet.
 
 ## Usage
 
+Choose a binary from the `bin` directory of your favorite platform and rename it to `bosa`.
+
+Then you can type `bosa` to see how it works.
+
 ```
 bosa is a command-line Swiss Army knife for BOS - by BOSCore.
 
